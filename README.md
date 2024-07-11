@@ -6,9 +6,7 @@ Welcome to the TableSprint Admin Dashboard! This application provides a user-fri
 
 1. [Features](#features)
 2. [Getting Started](#getting-started)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Pages and Functionalities](#pages-and-functionalities)
+3. [Pages and Functionalities](#pages-and-functionalities)
     - [Login Page](#login-page)
     - [Dashboard Page](#dashboard-page)
     - [Add Categories](#add-categories)
@@ -17,9 +15,7 @@ Welcome to the TableSprint Admin Dashboard! This application provides a user-fri
     - [Edit and Delete Functionality](#edit-and-delete-functionality)
     - [Password Reset Functionality](#password-reset-functionality)
     - [Search Functionality](#search-functionality)
-6. [Technologies Used](#technologies-used)
-7. [Contributing](#contributing)
-8. [License](#license)
+4. [Technologies Used](#technologies-used)
 
 ## Features
 
